@@ -1,0 +1,22 @@
+sudo: false
+language: node_js
+node_js:
+- '6.0'
+cache:
+  directories: 
+branches:
+  only:
+  - master
+notifications:
+  email: false
+before_script:
+- bash ./scripts/prepare.sh
+script:
+- cd SwipesForScience; npm run build
+after_success:
+- cd ..; bash ./scripts/deploy.sh
+env:
+  global:
+  - GH_USER: akeshavan
+  - GH_REPO: mHealthLandscape
+  - secure: iH1Gxm31x0gg+hQVQWmRFD7eATpq3mFUxh3+6g1tY4TQNnLCcsgHIto677ZOY/Utw8pKPGp+C5shQQW6v1nIL97WvOjWd+PXnkfBN6HAbYJONwoM7UYwiY2UbajgSSn6aJa35EKAhlNKI/5AX3fhQdAJVuqOEnpisGdR8lVxbcUmlzakx+kFp6SROXJtgwGcv6f6N69veItrlYiwuvl/5Fd1quQ877X/45MPg9tnzQLXk3cZiG8jM9xo3Cv75D7oZFHKtrD2W+og3QbvHnPcnotKbCoBH8XlBIrzW4qV5JVbgBwTTbqqBeCSNJnXeIVjoovXP68DADR06PkWambxrw4vDyagXCdC+fok/N4Pk0iFb8pEOkqxDMUB01ztjQC11zV8dqGGw/7NzhkljoL70Kfdz+Hp00B/8Ymwrg7n8Olj8no85ThAWn9NnX+NJ/JE3pdyfdVTU3RwSZQoYJ+gRIVxINyZFTjbDlgRRkx/hUvQsJJAuZKwLM9Gs/EfYRUxxmMtnRPvZoe3Z7AmDVFwRue1zpWd83ImwNkICw+D+6tjdjAzVP5kngUWvFkO5kOd3Yk55PaQC1ysRIL98o7qw3LTM1zBpUh0tomKCzEZZNAsGWL7OUEzJHkashjDDbOzoZMM4SPiKxEHVLn4yIWEizzA2sr2vVrIj3yVYreupS8=
