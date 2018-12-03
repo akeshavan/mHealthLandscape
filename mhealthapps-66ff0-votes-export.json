@@ -1,0 +1,877 @@
+{
+  "-LSbDbluYjdvSm18W3tW" : {
+    "response" : [ "active data entry", "journal", "subscription" ],
+    "sample" : "com__gratitude__challenge",
+    "time" : 26490,
+    "user" : "anisha"
+  },
+  "-LSbDxe0sV-lCd7r8efU" : {
+    "response" : [ "educational", "active data entry" ],
+    "sample" : "biz__icounselor__anxiety",
+    "time" : 89586,
+    "user" : "anisha"
+  },
+  "-LSbI7WU20E55cGDFbVX" : {
+    "response" : [ "not relevant" ],
+    "sample" : "com__mindstormstudios__tinypizza__ios",
+    "time" : 16068,
+    "user" : "anisha"
+  },
+  "-LSbIZ8Au9ya67NXffb2" : {
+    "response" : [ "meditation", "no data collection" ],
+    "sample" : "com__WishMaster-ph",
+    "time" : 113111,
+    "user" : "anisha"
+  },
+  "-LSbLePQLxthddOgcdjZ" : {
+    "response" : [ "meditation", "music", "no data collection" ],
+    "sample" : "com__isisblupublishing__divinehealing",
+    "time" : 812108,
+    "user" : "anisha"
+  },
+  "-LSbMJ2X6CZAL7TTMvhV" : {
+    "response" : [ "depression", "suicide", "active data entry" ],
+    "sample" : "com__moodtools__safetyplan",
+    "time" : 170542,
+    "user" : "anisha"
+  },
+  "-LSbMbqqHeSK1pPrhZZV" : {
+    "response" : [ "PTSD", "depression", "Bipolar", "subscription" ],
+    "sample" : "com__mymoodmonitor__whatsmym3",
+    "time" : 81091,
+    "user" : "anisha"
+  },
+  "-LSbMh-5-Ppw50tVZin3" : {
+    "response" : [ "meditation", "music" ],
+    "sample" : "com__meditationoasis__letgo",
+    "time" : 21054,
+    "user" : "anisha"
+  },
+  "-LSbNkRAsGGds3P9fV3_" : {
+    "response" : [ "gamified", "no data collection", "stress" ],
+    "sample" : "com__tip-tok__breathingbutterfly",
+    "time" : 276207,
+    "user" : "anisha"
+  },
+  "-LSbNtRLOydLVeP-3CnV" : {
+    "response" : [ "stress", "gamified", "no data collection" ],
+    "sample" : "com__personalzen__PZ",
+    "time" : 36843,
+    "user" : "anisha"
+  },
+  "-LSbO4H7oolTorBknAmb" : {
+    "response" : [ "Phobia", "CBT", "Journal", "active data entry" ],
+    "sample" : "com__akilan__fearnix",
+    "time" : 48471,
+    "user" : "anisha"
+  },
+  "-LSbONWNM697x-9eibqz" : {
+    "response" : [ "meditation" ],
+    "sample" : "com__moodtools__breathe",
+    "time" : 54021,
+    "user" : "anisha"
+  },
+  "-LSbO_bhU8G1xp-XBOn7" : {
+    "response" : [ "sensors", "Heart rate ", "Subscription", "not mental health" ],
+    "sample" : "si__modula__instantheartrate__free",
+    "time" : 53620,
+    "user" : "anisha"
+  },
+  "-LSbOiDi-d4DPrLFMWfe" : {
+    "response" : [ "not mental health", "Not relevant" ],
+    "sample" : "com__oopzmedia",
+    "time" : 35242,
+    "user" : "anisha"
+  },
+  "-LSbPCmTh0srs2QWQaab" : {
+    "response" : [ "gamified", "active data entry" ],
+    "sample" : "com__iosapp__MyHealthFabric",
+    "time" : 129256,
+    "user" : "anisha"
+  },
+  "-LSbPIaO2bowo3WFgpiH" : {
+    "response" : [ "meditation", "Music" ],
+    "sample" : "com__app__cbsm",
+    "time" : 23771,
+    "user" : "anisha"
+  },
+  "-LSbPkUYRLdKl9AtYXIM" : {
+    "response" : [ "OCD", "CBT", "social media", "educational" ],
+    "sample" : "com__treatmyocd__nocd",
+    "time" : 118320,
+    "user" : "anisha"
+  },
+  "-LSbQ4Lk3B7hajh1v7iy" : {
+    "response" : [ "CBT", "active data entry", "Journal", "Subscription" ],
+    "sample" : "de__moodpath__ios",
+    "time" : 85419,
+    "user" : "anisha"
+  },
+  "-LSbS9WY8HLEDUecUzKU" : {
+    "response" : [ "Breathing", "music", "Stress" ],
+    "sample" : "com__rehegoo__Deep-Breathing-Exercises",
+    "time" : 44299,
+    "user" : "anisha"
+  },
+  "-LSbSHyH4E9t6w3LfL5Q" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "com__vzo__blackbarwedding",
+    "time" : 34589,
+    "user" : "anisha"
+  },
+  "-LSbSMLENecZAYHMrUi_" : {
+    "response" : [ "active data entry" ],
+    "sample" : "org__hopelabs__Mood-Meter",
+    "time" : 17897,
+    "user" : "anisha"
+  },
+  "-LSbSm7DLk8a13QWXoUP" : {
+    "response" : [ "PTSD", "CBT" ],
+    "sample" : "com__PTSDSTOPSHERE__PTSDSTOPSHERE",
+    "time" : 109681,
+    "user" : "anisha"
+  },
+  "-LSbSt6KEsXQ_Ti7wKeV" : {
+    "response" : [ "Pain", "educational", "Workout" ],
+    "sample" : "com__9zest__fixhealth",
+    "time" : 28586,
+    "user" : "anisha"
+  },
+  "-LSbT0a5vz1z8J6X0Li8" : {
+    "response" : [ "social media", "Anxiety" ],
+    "sample" : "talklife",
+    "time" : 34718,
+    "user" : "anisha"
+  },
+  "-LSbTDovPi9VY8d7uIx9" : {
+    "response" : [ "Anxiety", "Phobia", "Journal", "educational", "active data entry" ],
+    "sample" : "com__feartools__FearTools",
+    "time" : 54172,
+    "user" : "anisha"
+  },
+  "-LSbf72UkAoQ5Aj2R4lw" : {
+    "sample" : "gov__va__mobilehealth__ncptsd__pecoach",
+    "time" : 9355,
+    "user" : "anisha"
+  },
+  "-LSbfBYX61rBrFK_hlCG" : {
+    "response" : [ "Mindfulness" ],
+    "sample" : "com__bastion__smilingmind",
+    "time" : 18411,
+    "user" : "anisha"
+  },
+  "-LSbfHf2UyM_R88jNayk" : {
+    "response" : [ "CBT", "Mindfulness", "active data entry" ],
+    "sample" : "io__woebot__alpha0",
+    "time" : 25032,
+    "user" : "anisha"
+  },
+  "-LSbfOyTQLoZQmigWrrW" : {
+    "response" : [ "sensors", "passive data entry", "Meditation" ],
+    "sample" : "com__interaxon__muse",
+    "time" : 29907,
+    "user" : "anisha"
+  },
+  "-LSbfZHBHmx3_XijWDX5" : {
+    "response" : [ "sensors", "active data entry" ],
+    "sample" : "com__fivestarimpact__tsoh",
+    "time" : 42193,
+    "user" : "anisha"
+  },
+  "-LSbfon9t3dzQsiZwJHJ" : {
+    "response" : [ "Breathing", "Music" ],
+    "sample" : "com__labnasounds__kardiafree",
+    "time" : 67623,
+    "user" : "anisha"
+  },
+  "-LSblCCviBPDuQBIxumQ" : {
+    "response" : [ "active data entry" ],
+    "sample" : "org__t2health__VirtualHopeBox",
+    "time" : 1410711,
+    "user" : "anisha"
+  },
+  "-LSblJOyiHkC89yFavj5" : {
+    "response" : [ "CBT", "Insomnia" ],
+    "sample" : "gov__va__mobilehealth__ncptsd__cbti",
+    "time" : 29413,
+    "user" : "anisha"
+  },
+  "-LSblNeewJHYPYB0p-py" : {
+    "response" : [ "Sleep ", "passive data entry" ],
+    "sample" : "com__fullpower__MotionXSleep",
+    "time" : 17424,
+    "user" : "anisha"
+  },
+  "-LSblTdV1WgL0Tx6lqlJ" : {
+    "response" : [ "educational", "No data entry" ],
+    "sample" : "uk__ntw__nhs__merseyCare__iphone",
+    "time" : 24484,
+    "user" : "anisha"
+  },
+  "-LSblZ1zZi2eSrb7arbF" : {
+    "response" : [ "Sleep ", "sensors", "passive data entry" ],
+    "sample" : "com__phase4mobile__freesleepsciencealarmclock",
+    "time" : 22088,
+    "user" : "anisha"
+  },
+  "-LSblixLUbE1H6iEIkWf" : {
+    "response" : [ "gamified", "active data entry", "Subscriptions" ],
+    "sample" : "com__lumoslabs__Lumosity",
+    "time" : 44680,
+    "user" : "anisha"
+  },
+  "-LSblrNHxOLl9nzKJwGA" : {
+    "response" : [ "CBT", "active data entry" ],
+    "sample" : "org__mayoclinic__AnxietyCoach",
+    "time" : 34473,
+    "user" : "anisha"
+  },
+  "-LSbm3pTEAT726Gt2vRX" : {
+    "response" : [ "sensors", "Breathing", "active data entry" ],
+    "sample" : "com__ecofusion__mentally",
+    "time" : 55098,
+    "user" : "anisha"
+  },
+  "-LSbm9XBPD03bupupK1U" : {
+    "response" : [ "Depression ", "educational" ],
+    "sample" : "depression__symptoms__treatment",
+    "time" : 23320,
+    "user" : "anisha"
+  },
+  "-LSbmMjOl6_B42AzOIHL" : {
+    "response" : [ "Meditation", "Subscriptions" ],
+    "sample" : "com__yuza__digipill",
+    "time" : 54076,
+    "user" : "anisha"
+  },
+  "-LSbmYW4g6EVoabzDSLq" : {
+    "response" : [ "Smoking ", "gamified", "educational" ],
+    "sample" : "com__silverbackis__smokefree28",
+    "time" : 48216,
+    "user" : "anisha"
+  },
+  "-LSbmsHHucz1U1xOs0yz" : {
+    "response" : [ "CBT", "Eating disorder", "gamified", "active data entry", "social media", "passive data entry" ],
+    "sample" : "com__guardiansd__recoveryrecord",
+    "time" : 85053,
+    "user" : "anisha"
+  },
+  "-LSbmxE_KnK1zAMiM-EY" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "com__sandboxx__sandboxx",
+    "time" : 20284,
+    "user" : "anisha"
+  },
+  "-LSbmyfPtz99xRXaD2bA" : {
+    "response" : [ "Not english" ],
+    "sample" : "cn__rhinotech__icareapp",
+    "time" : 5859,
+    "user" : "anisha"
+  },
+  "-LSbnE4hF23Vnwth2lrk" : {
+    "response" : [ "Subscriptions", "gamified" ],
+    "sample" : "com__happify__Happify",
+    "time" : 67196,
+    "user" : "anisha"
+  },
+  "-LSbnVj96s1yzHJhpYEX" : {
+    "response" : [ "CBT", "active data entry", "Journal " ],
+    "sample" : "no__mindfit__Mindfit",
+    "time" : 72257,
+    "user" : "anisha"
+  },
+  "-LSbnb8BG9twsTEPLZTG" : {
+    "response" : [ "Sleep ", "Sounds", "No data entry" ],
+    "sample" : "nz__co__softwarex__sleepmakerrainfree",
+    "time" : 26219,
+    "user" : "anisha"
+  },
+  "-LSbnlyj80aO3hewkAJn" : {
+    "response" : [ "Smoking ", "active data entry", "educational", "social media", "gamified" ],
+    "sample" : "com__theprojectfactory__QuitNowMyQuitBuddy",
+    "time" : 44376,
+    "user" : "anisha"
+  },
+  "-LSbntoYslRY5wilgRS9" : {
+    "response" : [ "Anxiety", "Subscriptions" ],
+    "sample" : "com__worrinots__wotnothome",
+    "time" : 32090,
+    "user" : "anisha"
+  },
+  "-LSbo2yre_B52Sd-AiFz" : {
+    "response" : [ "Sounds", "Sleep " ],
+    "sample" : "com__sleepgenius__SleepGenius2",
+    "time" : 41607,
+    "user" : "anisha"
+  },
+  "-LSbo6vcEwffjDHTBkCm" : {
+    "response" : [ "Meditation", "Music" ],
+    "sample" : "com__mobureau__myChakra2",
+    "time" : 16154,
+    "user" : "anisha"
+  },
+  "-LSboIRIMl3xewH9H5tq" : {
+    "response" : [ "Schizophrenia", "active data entry", "Journal ", "social media" ],
+    "sample" : "com__healthstorylines__sardaa",
+    "time" : 47134,
+    "user" : "anisha"
+  },
+  "-LSboP-DHEGVHV6XL1Yf" : {
+    "response" : [ "Sleep ", "sensors" ],
+    "sample" : "com__revivasoftworks__Snore-Lab",
+    "time" : 26859,
+    "user" : "anisha"
+  },
+  "-LSboPwmu0ELdtQ3lA9c" : {
+    "response" : [ "Not english" ],
+    "sample" : "com__yunhai78__cloudSea0",
+    "time" : 3850,
+    "user" : "anisha"
+  },
+  "-LSboUwJerGl1UioJI2g" : {
+    "response" : [ "sensors", "Sleep ", "passive data entry" ],
+    "sample" : "com__mysleepbot__SleepBot",
+    "time" : 20435,
+    "user" : "anisha"
+  },
+  "-LSbod510KYTc-rDu3-y" : {
+    "response" : [ "Meditation", "Sounds", "Music", "No data entry" ],
+    "sample" : "com__meditationoasis__simplybeing1",
+    "time" : 37469,
+    "user" : "anisha"
+  },
+  "-LSboji2ydCxSKidqXeA" : {
+    "response" : [ "Sleep ", "Sounds", "No data entry" ],
+    "sample" : "nz__co__softwarex__sleepmakerstormfree",
+    "time" : 27120,
+    "user" : "anisha"
+  },
+  "-LSbooA4CjM0fGMRXzxL" : {
+    "response" : [ "educational" ],
+    "sample" : "com__wiseland__getagriponlife",
+    "time" : 18220,
+    "user" : "anisha"
+  },
+  "-LSbovlhITFPMG37geVI" : {
+    "response" : [ "Meditation", "Anxiety", "Sounds", "Music", "No data entry" ],
+    "sample" : "relaxlite",
+    "time" : 31129,
+    "user" : "anisha"
+  },
+  "-LSbp0Mn0HGi2WJV3Lyj" : {
+    "response" : [ "Breathing", "sensors", "passive data entry" ],
+    "sample" : "org__t2health__BreatheTwoRelax",
+    "time" : 22901,
+    "user" : "anisha"
+  },
+  "-LSbp5xa1ndyQG5qqnpC" : {
+    "response" : [ "Anxiety", "educational", "Massage" ],
+    "sample" : "com__drbargak__acupressure__anxiety__free",
+    "time" : 22884,
+    "user" : "anisha"
+  },
+  "-LSbpB0fn4HcMYdaShnD" : {
+    "response" : [ "Massage", "educational" ],
+    "sample" : "com__drbargak__appacupressureeverydayfree",
+    "time" : 20716,
+    "user" : "anisha"
+  },
+  "-LSbpRAcB09hR-5eQfzU" : {
+    "response" : [ "Attention", "Mindfulness", "educational", "Subscriptions" ],
+    "sample" : "com__potentialproject__mind",
+    "time" : 66162,
+    "user" : "anisha"
+  },
+  "-LSbpcKUhul_vEU_eFdK" : {
+    "response" : [ "gamified", "Subscriptions", "Cognitive", "memory", "Depression " ],
+    "sample" : "com__cognifit__Cognifit",
+    "time" : 49761,
+    "user" : "anisha"
+  },
+  "-LSbpueaCcvNEd8ZuF0W" : {
+    "response" : [ "Anxiety", "Sounds", "educational", "social media", "Subscriptions" ],
+    "sample" : "ie__johnquirke__dareapp",
+    "time" : 75066,
+    "user" : "anisha"
+  },
+  "-LSbq7Tq3P44KYwmxsVT" : {
+    "response" : [ "active data entry", "Productivity" ],
+    "sample" : "edu__northwestern__cbits__intellicare__ios__dailyfeats",
+    "time" : 56566,
+    "user" : "anisha"
+  },
+  "-LSbqCh1o645f0HUyIYY" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "gen__tech__BetterMe",
+    "time" : 21364,
+    "user" : "anisha"
+  },
+  "-LSbqMem3-_jwN7fplOx" : {
+    "response" : [ "Sleep ", "Sounds", "Hypnosis" ],
+    "sample" : "com__mindifi__deepsleepandrelaxationhypnosisbymindifi",
+    "time" : 40799,
+    "user" : "anisha"
+  },
+  "-LSbqY4YOquszZxxSUJC" : {
+    "response" : [ "Smoking ", "educational", "gamified", "social media" ],
+    "sample" : "com__mmgct__QuitSTART",
+    "time" : 46764,
+    "user" : "anisha"
+  },
+  "-LSbqirRGEDN4iaATKgV" : {
+    "response" : [ "Anxiety", "educational", "Depression ", "Audio", "No data entry", "Subscriptions" ],
+    "sample" : "com__pitashi__audiojoy__anxietyfears",
+    "time" : 48230,
+    "user" : "anisha"
+  },
+  "-LSbrMb5DUhJHcVyShVp" : {
+    "response" : [ "educational", "active data entry", "Sleep ", "Depression ", "PTSD" ],
+    "sample" : "org__t2health__LifeArmor",
+    "time" : 166863,
+    "user" : "anisha"
+  },
+  "-LSbrTo4O9OBo_QH1TDg" : {
+    "response" : [ "Stress", "Meditation" ],
+    "sample" : "com__bennettadelson__sfnmobile",
+    "time" : 29468,
+    "user" : "anisha"
+  },
+  "-LSbrYUNyq_VxzYwq3g4" : {
+    "response" : [ "Sounds", "Sleep ", "Stress", "Music" ],
+    "sample" : "com__fv__MelodiesSleep",
+    "time" : 19127,
+    "user" : "anisha"
+  },
+  "-LSbrhm60_Y8rHB0i4WH" : {
+    "response" : [ "Depression ", "Journal ", "active data entry", "educational" ],
+    "sample" : "com__moodtools__moodtools",
+    "time" : 42136,
+    "user" : "anisha"
+  },
+  "-LSbrx9K5j7axf8RTdot" : {
+    "response" : [ "Anxiety", "CBT", "Meditation", "Sounds", "Journal ", "sensors", "social media", "Subscriptions" ],
+    "sample" : "com__pacificalabs__pacifica",
+    "time" : 62964,
+    "user" : "anisha"
+  },
+  "-LSbs2vePI9Bm-AFWs5C" : {
+    "response" : [ "active data entry", "Journal " ],
+    "sample" : "org__t2health__T2-Mood-Tracker",
+    "time" : 27708,
+    "user" : "anisha"
+  },
+  "-LSbsIeGrl5C5Fpp3WTg" : {
+    "response" : [ "Meditation", "Subscriptions", "sensors", "Audio" ],
+    "sample" : "com__getsomeheadspace__headspace",
+    "time" : 64409,
+    "user" : "anisha"
+  },
+  "-LSbsbSyKS2p_b1DSqxw" : {
+    "response" : [ "Depression ", "CBT", "educational" ],
+    "sample" : "com__apt__MoodMaster",
+    "time" : 81227,
+    "user" : "anisha"
+  },
+  "-LSbsjBACnYzVLRUTqAX" : {
+    "response" : [ "CBT", "Journal ", "active data entry" ],
+    "sample" : "au__com__reachout__worrytime",
+    "time" : 31589,
+    "user" : "anisha"
+  },
+  "-LSbvQv8XORP6Tnb9ife" : {
+    "response" : [ "social media", "Journal ", "active data entry" ],
+    "sample" : "com__thriveport__MoodKit",
+    "time" : 707370,
+    "user" : "anisha"
+  },
+  "-LSbvv4xssFtcOTXi-p_" : {
+    "response" : [ "Anxiety" ],
+    "sample" : "com__bstro__mindshift",
+    "time" : 127636,
+    "user" : "anisha"
+  },
+  "-LSbw8SxrvtS-6okm-Wq" : {
+    "response" : [ "Sleep ", "passive data entry", "sensors", "In app purchase" ],
+    "sample" : "com__neybox__Pillow",
+    "time" : 58845,
+    "user" : "anisha"
+  },
+  "-LSbwOz6ykjdO3L3soWH" : {
+    "response" : [ "CBT", "Journal ", "active data entry", "educational" ],
+    "sample" : "com__medialocal__feelbetter-ios",
+    "time" : 67635,
+    "user" : "anisha"
+  },
+  "-LSbwYSkvWHPQlK44EKY" : {
+    "response" : [ "Meditation", "Audio", "educational", "Music", "social media" ],
+    "sample" : "com__spotlightsix__zentimer",
+    "time" : 38806,
+    "user" : "anisha"
+  },
+  "-LSbw_sI-X7__cRCf7xk" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "com__opt__lisboamoveme",
+    "time" : 9869,
+    "user" : "anisha"
+  },
+  "-LSbwhFHjh95i_ll_R_O" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "com__anotherplaceproductions__step-forwards",
+    "time" : 30188,
+    "user" : "anisha"
+  },
+  "-LSbwlV7cRPs_VVWaBJU" : {
+    "response" : [ "Journal ", "active data entry" ],
+    "sample" : "dk__kalorieopslag__MoodDiary",
+    "time" : 17374,
+    "user" : "anisha"
+  },
+  "-LSbww540AtS-rr_INy7" : {
+    "response" : [ "Journal ", "active data entry" ],
+    "sample" : "net__daylio__Daylio",
+    "time" : 43368,
+    "user" : "anisha"
+  },
+  "-LSbxAgKNSQWj8LL29RI" : {
+    "response" : [ "gamified", "social media", "Resilience" ],
+    "sample" : "com__yourok__kbro",
+    "time" : 63862,
+    "user" : "anisha"
+  },
+  "-LSbxEBPWBA6JhD1KHwf" : {
+    "response" : [ "hypnosis", "guided meditation" ],
+    "sample" : "com__get-on-apps__stoppanicattacks",
+    "time" : 40868,
+    "user" : "reza"
+  },
+  "-LSbxReuznirG4yAXvwj" : {
+    "response" : [ "cognitive training", "brain training" ],
+    "sample" : "com__donkeysoft__wordwow",
+    "time" : 50769,
+    "user" : "reza"
+  },
+  "-LSbyIj3jh_YFkamRj7b" : {
+    "response" : [ "Hypnosis", "Stress", "Audio" ],
+    "sample" : "com__appitventures__Stress-Release-Hypnosis",
+    "time" : 295069,
+    "user" : "anisha"
+  },
+  "-LSbygBxLEFVamU_FKem" : {
+    "response" : [ "Sounds", "Sleep ", "Subscriptions" ],
+    "sample" : "com__ilbsoft__irelax",
+    "time" : 100193,
+    "user" : "anisha"
+  },
+  "-LSbylj2_i175zyQl-aP" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "com__google__Chromecast",
+    "time" : 14431,
+    "user" : "anisha"
+  },
+  "-LSbyqTgfTwyG6S4475u" : {
+    "response" : [ "Anxiety", "active data entry" ],
+    "sample" : "com__feartools__Anxiety-Test",
+    "time" : 19417,
+    "user" : "anisha"
+  },
+  "-LSbz6p4DkwIkiJonenZ" : {
+    "response" : [ "CBT", "active data entry", "Anxiety" ],
+    "sample" : "com__BonfireDA__iCBT",
+    "time" : 71038,
+    "user" : "anisha"
+  },
+  "-LSc-FLP8SpMPJhKi6wf" : {
+    "response" : [ "CBT", "active data entry", "Journal " ],
+    "sample" : "com__moodvitals__mr",
+    "time" : 297031,
+    "user" : "anisha"
+  },
+  "-LSc0c5K_GhDRZnykhsD" : {
+    "response" : [ "Meditation ", "Subscriptions", "Anxiety", "Audio" ],
+    "sample" : "com__simplehabitapp__shrelease",
+    "time" : 359480,
+    "user" : "anisha"
+  },
+  "-LSc2WQzOl7zL7J9f1jY" : {
+    "response" : [ "Journal ", "active data entry" ],
+    "sample" : "com__worrinots__worrinotshome",
+    "time" : 496886,
+    "user" : "anisha"
+  },
+  "-LSc2fVYhGvohzUZgQpf" : {
+    "response" : [ "PTSD", "CPT", "educational", "active data entry" ],
+    "sample" : "gov__va__mobilehealth__ncptsd__cptcoach",
+    "time" : 41211,
+    "user" : "anisha"
+  },
+  "-LSc2igqogfI6nMCj0qu" : {
+    "response" : [ "Depression ", "active data entry" ],
+    "sample" : "com__depressiontest__depression",
+    "time" : 13050,
+    "user" : "anisha"
+  },
+  "-LSc2mmawcxQ16k_U4YZ" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "net__rhsoftware__SoundsOfNatureSoundboardLite",
+    "time" : 16734,
+    "user" : "anisha"
+  },
+  "-LSc2yxP9hLoDYWmlyZH" : {
+    "response" : [ "ACT", "PTSD", "educational", "active data entry" ],
+    "sample" : "gov__va__mobilehealth__ncptsd__actcoach",
+    "time" : 33252,
+    "user" : "anisha"
+  },
+  "-LSc36po3eDNroumyIZg" : {
+    "response" : [ "Meditation ", "sleep", "Sounds", "Hypnosis" ],
+    "sample" : "com__ipnossoft__acssp",
+    "time" : 36358,
+    "user" : "anisha"
+  },
+  "-LSc3Ao3RYVlW6daJeBl" : {
+    "response" : [ "Anxiety", "active data entry" ],
+    "sample" : "com__moodtools__socialanxietytest",
+    "time" : 16252,
+    "user" : "anisha"
+  },
+  "-LSc3JPqXEwH25b4UtxC" : {
+    "response" : [ "Breathing", "sensors" ],
+    "sample" : "au__com__reachout__breath",
+    "time" : 35229,
+    "user" : "anisha"
+  },
+  "-LSc3NiFREAZT6hZZZu8" : {
+    "response" : [ "Meditation ", "Sounds" ],
+    "sample" : "com__rehegoo__Binaural-Beats-Alpha-Waves",
+    "time" : 17603,
+    "user" : "anisha"
+  },
+  "-LSc3TThiHw3u3GV9KV9" : {
+    "response" : [ "Depression ", "educational" ],
+    "sample" : "com__builtbydoctors__ssdepression",
+    "time" : 23566,
+    "user" : "anisha"
+  },
+  "-LSc3Yeyobyp9CVARHwc" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "com__phase4mobile__freebabysleepsounds",
+    "time" : 21248,
+    "user" : "anisha"
+  },
+  "-LSc3_x2PmgMGSltvsq5" : {
+    "response" : [ "Depression ", "Massage" ],
+    "sample" : "com__drbargak__acupressure__depression__free",
+    "time" : 9330,
+    "user" : "anisha"
+  },
+  "-LSc3bV_THMFMROtaU_G" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "com__vividgames__realboxing",
+    "time" : 6348,
+    "user" : "anisha"
+  },
+  "-LSc3cqPdQhmAbP2JK3k" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "chirp__moonbeamdevelopment__com",
+    "time" : 5473,
+    "user" : "anisha"
+  },
+  "-LSc3dhf7kCnhDds5Jtu" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "com__danielmiller__dailycardioworkoutfree",
+    "time" : 3516,
+    "user" : "anisha"
+  },
+  "-LSc3fMQnd9SKeeqsPnd" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "com__sysbeeapps__zirkl",
+    "time" : 6753,
+    "user" : "anisha"
+  },
+  "-LSc3i3Z0MkKAIBbxFTY" : {
+    "response" : [ "Anxiety" ],
+    "sample" : "com__skythorapps__anxietyattack",
+    "time" : 11062,
+    "user" : "anisha"
+  },
+  "-LSc3lb5Fj9zOUJ7i6XU" : {
+    "response" : [ "Bipolar", "active data entry" ],
+    "sample" : "com__bipolar__test",
+    "time" : 14477,
+    "user" : "anisha"
+  },
+  "-LSc3snj8cM1QDqu7qNk" : {
+    "response" : [ "CBT", "active data entry" ],
+    "sample" : "me__icouch__icouchcbt",
+    "time" : 29463,
+    "user" : "anisha"
+  },
+  "-LSc3wTAjzl1UGDl1PbU" : {
+    "response" : [ "active data entry" ],
+    "sample" : "org__facingus__tracker",
+    "time" : 14985,
+    "user" : "anisha"
+  },
+  "-LSc426vEbYHnGEITZP6" : {
+    "response" : [ "CBT", "active data entry" ],
+    "sample" : "com__magellanhealth__MoodCalmer",
+    "time" : 27230,
+    "user" : "anisha"
+  },
+  "-LSc44Cz4JNqzKsg0qKn" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "com__flightaware__iphone__live-flight-tracker",
+    "time" : 8556,
+    "user" : "anisha"
+  },
+  "-LSc4Jc11FadoHVukLwN" : {
+    "response" : [ "Depression ", "CBT", "Subscriptions ", "active data entry" ],
+    "sample" : "com__samuramu__gg__de",
+    "time" : 63089,
+    "user" : "anisha"
+  },
+  "-LSc4aJf2I6t75UmjkeJ" : {
+    "response" : [ "Meditation ", "sleep", "Audio", "Subscriptions " ],
+    "sample" : "com__calm__calmapp",
+    "time" : 72465,
+    "user" : "anisha"
+  },
+  "-LSc4lxxAwx3b5mSI_z8" : {
+    "response" : [ "Anxiety", "active data entry", "gamified", "Subscriptions " ],
+    "sample" : "com__help__stressfree",
+    "time" : 47683,
+    "user" : "anisha"
+  },
+  "-LSc4pGInEZOI2O0VF8M" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "com__mqdp__location__selfhelpquotes",
+    "time" : 13506,
+    "user" : "anisha"
+  },
+  "-LSc4zZc06-lMtdFl3Yc" : {
+    "response" : [ "Anxiety", "Audio", "active data entry", "Breathing", "Subscriptions " ],
+    "sample" : "com__rosteam__AnxietyReliever",
+    "time" : 42181,
+    "user" : "anisha"
+  },
+  "-LSc50bRdh9yXLdFPla1" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "si__renderspace__DonatMG",
+    "time" : 8345,
+    "user" : "anisha"
+  },
+  "-LSc5AYpXgrd3gpsC-Z5" : {
+    "response" : [ "Meditation ", "Breathing", "Audio", "sleep" ],
+    "sample" : "com__courtneycircle__MeditationMobile",
+    "time" : 40715,
+    "user" : "anisha"
+  },
+  "-LSc5IFy5tNfuljNoMe6" : {
+    "response" : [ "Journal ", "active data entry", "educational" ],
+    "sample" : "com__nogginnotes__app",
+    "time" : 31545,
+    "user" : "anisha"
+  },
+  "-LSc5oKwKMuTeUj7mE3n" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "com__mqdp__stressquotes",
+    "time" : 135462,
+    "user" : "anisha"
+  },
+  "-LSc5xlAZSrmwVcpXOlO" : {
+    "response" : [ "Cognitive", "gamified", "social media", "Subscriptions " ],
+    "sample" : "com__monclarity__brainwell",
+    "time" : 38567,
+    "user" : "anisha"
+  },
+  "-LSc610mVnfPxA6v-4Lj" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "com__iodine__Iodine",
+    "time" : 17414,
+    "user" : "anisha"
+  },
+  "-LSc65qds53GhJq93bvq" : {
+    "response" : [ "Hypnosis", "Audio" ],
+    "sample" : "com__erickbrownapps__positivity",
+    "time" : 19753,
+    "user" : "anisha"
+  },
+  "-LSc68GTQNg4Pn26tjUg" : {
+    "response" : [ "Smoking" ],
+    "sample" : "com__lifeasplay__affirmations8",
+    "time" : 9892,
+    "user" : "anisha"
+  },
+  "-LSc69PdNxXwyAq8yZLG" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "com__skyhealth__fitnessbuddyfree",
+    "time" : 4668,
+    "user" : "anisha"
+  },
+  "-LSc6AYNSdo8KvmIWRUE" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "Jian__BabyDreams-Lite",
+    "time" : 4631,
+    "user" : "anisha"
+  },
+  "-LSc6BK90hyz5HwqF_R5" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "com__click2mobile__collagegrameFree",
+    "time" : 3168,
+    "user" : "anisha"
+  },
+  "-LSc6GyVzGI3aOicC_3y" : {
+    "response" : [ "Journal ", "active data entry" ],
+    "sample" : "com__moodtrak__diary",
+    "time" : 23108,
+    "user" : "anisha"
+  },
+  "-LSc6HroYTQczqcklyeu" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "com__shane__30daysfree",
+    "time" : 3655,
+    "user" : "anisha"
+  },
+  "-LSc6PmIaeGfLxhSaBpx" : {
+    "response" : [ "Anxiety", "educational", "social media", "active data entry" ],
+    "sample" : "uk__ac__uwe__sam",
+    "time" : 32399,
+    "user" : "anisha"
+  },
+  "-LSc6WddKGKQWKKhVGUY" : {
+    "response" : [ "PTSD", "Alcohol ", "educational" ],
+    "sample" : "gov__va__mobilehealth__ncptsd__vetchange",
+    "time" : 28098,
+    "user" : "anisha"
+  },
+  "-LSc6dZ8pzts7h0DRvwz" : {
+    "response" : [ "OCD", "Audio" ],
+    "sample" : "biz__icounselor__ocd",
+    "time" : 32394,
+    "user" : "anisha"
+  },
+  "-LSc6rK4qCcg5O6wmrTX" : {
+    "response" : [ "Anxiety", "Hypnosis", "Audio" ],
+    "sample" : "com__ican-hypnosis__anxietyfree",
+    "time" : 56358,
+    "user" : "anisha"
+  },
+  "-LSc6xObZqu1sLjYkGh4" : {
+    "response" : [ "educational" ],
+    "sample" : "com__mqdp__location__mentalillness",
+    "time" : 24821,
+    "user" : "anisha"
+  },
+  "-LSeVykxvrRLBiis7E2o" : {
+    "response" : [ "Not relevant" ],
+    "sample" : "com__ketchapp__ketchapptennis",
+    "time" : 11276,
+    "user" : "anisha"
+  },
+  "-LSeW2DEk8XjqteX6w7X" : {
+    "response" : [ "memory" ],
+    "sample" : "com__fingor__Memory-Lt",
+    "time" : 18247,
+    "user" : "anisha"
+  }
+}
